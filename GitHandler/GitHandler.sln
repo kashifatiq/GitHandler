@@ -5,6 +5,13 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHandler", "GitHandler\GitHandler.csproj", "{852A3A15-C88E-4FAD-8653-9610356F8E5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GHWinService", "GHWinService\GHWinService.csproj", "{A0F124D3-D56C-4913-AEA6-2B07B5EC3D9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C14C448B-4374-4DB1-8B2D-10101C875CA0}"
+	ProjectSection(SolutionItems) = preProject
+		info.docx = info.docx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{852A3A15-C88E-4FAD-8653-9610356F8E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{852A3A15-C88E-4FAD-8653-9610356F8E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{852A3A15-C88E-4FAD-8653-9610356F8E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F124D3-D56C-4913-AEA6-2B07B5EC3D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F124D3-D56C-4913-AEA6-2B07B5EC3D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F124D3-D56C-4913-AEA6-2B07B5EC3D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F124D3-D56C-4913-AEA6-2B07B5EC3D9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
